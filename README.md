@@ -1,2 +1,1 @@
-# mood-timeless
-Layout create to redirect clients who are interested in getting clothes of our new collection. Created in for HTML to redirect to products.
+![News new in mood timeless](https://github.com/AmandaCylleno/mood-timeless/assets/145169742/7bf1d09a-96f4-47d8-9d41-25043b179b90)
